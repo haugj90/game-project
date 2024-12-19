@@ -3,7 +3,7 @@ from unittest.mock import patch
 import time
 
 # Assume the math_game function is in a file called `math_game.py`
-from math_game import math_game
+from game import math_game
 
 class TestMathGame(unittest.TestCase):
     @patch('builtins.input', side_effect=['3', '5', '12', '18', '6', '9', '7'])  # Simulate user inputs

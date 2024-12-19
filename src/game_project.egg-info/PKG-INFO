@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: game-project
+Version: 1.0.0
+Summary: My first Python package
+Author-email: Jan-Karl Haug <Jan-Karl.Haug@dlr.de>
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pytest
+Requires-Dist: random
+Requires-Dist: time

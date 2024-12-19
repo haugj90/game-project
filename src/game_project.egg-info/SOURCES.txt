@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/game.py
+src/game_project.egg-info/PKG-INFO
+src/game_project.egg-info/SOURCES.txt
+src/game_project.egg-info/dependency_links.txt
+src/game_project.egg-info/requires.txt
+src/game_project.egg-info/top_level.txt
+tests/test_main.py
