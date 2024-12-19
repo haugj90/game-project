@@ -1,0 +1,13 @@
+[project]
+name = "game-project" 
+version = "1.0.0"
+description = "My first Python package" 
+requires-python = ">=3.8" 
+authors = [
+    {name = "Jan-Karl Haug", email="Jan-Karl.Haug@dlr.de"},
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "pytest"
+]
